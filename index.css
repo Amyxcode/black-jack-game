@@ -21,6 +21,7 @@ h1 {
 button {
     color: #016f32;
     width: 150px;
+    display:inline;
     background: goldenrod;
     padding-top: 20px;
     padding-bottom: 20px;
