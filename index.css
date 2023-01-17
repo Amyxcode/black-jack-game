@@ -21,7 +21,6 @@ h1 {
 button {
     color: #016f32;
     width: 150px;
-    display:flex;
     background: goldenrod;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -30,6 +29,7 @@ button {
     border: none;
     border-radius: 2px;
     margin-bottom: 2px;
-    margin-right:6px;
+    margin-right:2px;
     margin-top: 2px;
 }
+@media(minwidth:900px)
