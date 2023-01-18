@@ -35,8 +35,7 @@ button {
     margin-top: 0.125em;
     
 }
-@media (min-width:100px){
-    color:#faf9f6;
-    background-color:#202945;
+@media (min-width:400px){
+    
 }
 
