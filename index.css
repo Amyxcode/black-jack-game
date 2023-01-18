@@ -6,11 +6,14 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+    width:90%;
+    max-width:600px;
+    min-width:400px;
 }
 
 h1 {
     color: goldenrod;
-    margin-top:150px;
+    margin-top:9.375em;
 }
 
 #message-el {
@@ -24,12 +27,12 @@ button {
     width: 150px;
     display:inline-block;
     background: goldenrod;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding:0.5 em 1em;
     font-weight: bold;
     border: none;
     border-radius: 2px;
-    margin-bottom: 2px;
-    margin-top: 2px;
+    margin-bottom: 1em;
+    margin-top: 0.125em;
+    
 }
-@media(minwidth:900px)
+
