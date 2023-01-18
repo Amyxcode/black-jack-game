@@ -24,6 +24,12 @@ h1 {
     
     
 }
+#sum-el{
+    font-size:2rem;
+    }
+#cards-el{
+    font-size:2rem;
+    }
 
 button {
     color: #016f32;
