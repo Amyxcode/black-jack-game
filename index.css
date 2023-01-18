@@ -7,8 +7,7 @@ body {
     color: white;
     text-align: center;
     width:90%;
-    max-width:800px;
-    min-width:600px;
+
     
 }
 
@@ -36,5 +35,7 @@ button {
     margin-bottom: 1em;
     margin-top: 0.125em;
     
+}
+@media (max-width:600px){
 }
 
