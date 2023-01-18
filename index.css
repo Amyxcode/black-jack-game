@@ -36,8 +36,11 @@ button {
     margin-bottom: 1em;
     margin-top: 0.125em;
     
+    
 }
 @media (min-width:480px){
-    
+    .button{
+        display:block;
+        }
 }
 
