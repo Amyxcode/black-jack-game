@@ -35,6 +35,8 @@ button {
     margin-top: 0.125em;
     
 }
-@media (max-width:600px){
+@media (max-width:500px){
+    color:#faf9f6;
+    background-color:#202945;
 }
 
