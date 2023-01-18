@@ -26,9 +26,15 @@ h1 {
 }
 #sum-el{
     font-size:2rem;
+    font-weight:bold;
     }
 #cards-el{
     font-size:2rem;
+    font-weight:bold;
+    }
+#player-el{
+    font-size:2rem;
+    font-weight:bold;
     }
 
 button {
